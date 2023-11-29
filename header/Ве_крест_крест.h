@@ -83,6 +83,11 @@
 #define меняло std::swap
 #define отщипнуть get
 
+#define есть ==
+#define та &&
+#define або ||
+#define николи !=
+
 внедрить целина = int;
 внедрить вель_дробь = double;
 внедрить малый_дробь = float;
